@@ -4,7 +4,7 @@ Yayınlanma Tarihi: 11.01.2017
 
 Version: V1
 
- (#GtaTürk konu linki(http://www.gtaturk.com/forum/Maymuncuk-Sistemi--316913/?msg=2971302#msg2971302))
+ ([GtaTürk konu linki](http://www.gtaturk.com/forum/Maymuncuk-Sistemi--316913/?msg=2971302#msg2971302))
 # Komutlar
 
 - ```/maymuncukal``` Maymuncuk satın almak için kullanılır.
