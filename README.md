@@ -4,7 +4,8 @@ Yayınlanma Tarihi: 11.01.2017
 
 Version: V1
 
- ([GtaTürk konu linki](http://www.gtaturk.com/forum/Maymuncuk-Sistemi--316913/?msg=2971302#msg2971302))
+ ([GtaMulti konu linki](https://www.gtamulti.com/forum/mod-galerisi/maymuncuk-sistemi/msg23454/#msg23454))
+
 # Komutlar
 
 - ```/maymuncukal``` Maymuncuk satın almak için kullanılır.
@@ -14,7 +15,7 @@ Version: V1
 
 # Ekran Görüntüleri
 
-![Res 1](http://i.hizliresim.com/kG7Ol7.png)
-![Res 2](http://i.hizliresim.com/Nl8Z7N.png)
-![Res 3](http://i.hizliresim.com/ad8z6R.png)
-![Res 4](http://i.hizliresim.com/Yq8gAa.png)
+![Res 1](res1.png)
+![Res 2](res2.png)
+![Res 3](res3.png)
+![Res 4](res4.png)
